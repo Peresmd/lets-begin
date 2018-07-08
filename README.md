@@ -1,3 +1,3 @@
 # lets-begin 
-This is a project new
+This is a new project 
 I like this branches
